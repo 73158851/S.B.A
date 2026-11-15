@@ -1,0 +1,5 @@
+# Netlify: el sistema ya viene compilado, así que no hay paso de "build".
+# Netlify publica directamente la carpeta "sitio".
+[build]
+  publish = "sitio"
+  command = ""
